@@ -1,0 +1,22 @@
+SỔ CÔNG THỢ KHOÁ - CÀI LÊN IPHONE
+
+1. Đưa app lên mạng (miễn phí, khoảng 2 phút, làm trên máy tính):
+   - Giải nén file zip này.
+   - Nếu đã đưa bản trước lên Netlify: vào trang site đó -> Deploys -> kéo thả thư mục mới để cập nhật (link giữ nguyên).
+   - Nếu chưa: mở https://app.netlify.com/drop rồi kéo thả cả thư mục "SoCongTho" vào trang.
+   - Netlify trả về một đường link dạng https://ten-ngau-nhien.netlify.app
+     (tạo tài khoản miễn phí để link không bị xoá; có thể đổi tên link trong Site settings).
+
+2. Cài lên iPhone:
+   - Mở link đó bằng Safari.
+   - Bấm nút Chia sẻ (ô vuông có mũi tên lên) -> "Thêm vào MH chính" -> Thêm.
+   - Từ nay mở app bằng biểu tượng "Sổ Công" trên màn hình chính.
+
+3. Chuyển dữ liệu cũ từ bản trong Claude (nếu có):
+   - Trong bản Claude: Cài đặt -> Tải file sao lưu.
+   - Trong app mới: Cài đặt -> Khôi phục -> chọn file vừa tải.
+
+LƯU Ý
+- Dữ liệu lưu trên chính iPhone. Nên bấm "Tải sao lưu" mỗi tuần và cất vào Tệp/iCloud.
+- Không xoá dữ liệu trang web của Safari, vì làm vậy có thể mất dữ liệu app.
+- Lần đầu cần có mạng để tải phông chữ và thư viện xuất PDF/Excel; sau đó dùng được khi mất mạng.
